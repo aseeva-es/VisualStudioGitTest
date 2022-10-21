@@ -14,6 +14,7 @@ namespace VisualStudioGitTest.Pages
 
         public IndexModel(ILogger<IndexModel> logger)
         {
+            // Test comment
             _logger = logger;
         }
 
